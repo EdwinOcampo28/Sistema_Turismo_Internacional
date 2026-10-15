@@ -1,0 +1,22 @@
+TURISMO INTERNACIONAL · PYTHON TERMINAL
+
+CONTENIDO
+- turismo.py: aplicación de terminal.
+- catalogo.json: rutas, ciudades, precios orientativos, recomendaciones y datos de demostración.
+- datos_locales.json: se crea automáticamente al guardar; conserva saldos, cotización actual e historial de facturas.
+- INICIAR_TURISMO.bat: iniciador para Windows.
+
+INICIO
+1. Extrae esta carpeta del ZIP.
+2. Abre Turismo_Internacional_Python_Terminal.
+3. Ejecuta INICIAR_TURISMO.bat, o ejecuta `python turismo.py` desde esta carpeta.
+
+NOTAS
+- Esta entrega contiene únicamente los archivos de la versión de terminal; no incluye HTML, CSS ni JavaScript de la web.
+- Los datos se guardan localmente en datos_locales.json. No borres ese archivo si quieres conservar el historial.
+- La nueva cotización reinicia los saldos/cupos al valor inicial configurado en catalogo.json y conserva las facturas anteriores.
+- Los vuelos permiten elegir país y luego ciudad; el origen se calcula desde la última llegada. Las confirmaciones de vuelo muestran países y las de servicios incluyen categoría, ciudad y país.
+- El historial de facturas se guarda al confirmar la factura final después de pagar ambas etapas.
+- Las tarifas son estimadas y los pagos son simulados. No se conecta a bancos ni procesa dinero real.
+- Las cuotas son estimaciones simples del total dividido por el número de cuotas, no una amortización bancaria.
+- Requiere Python 3.10 o posterior. No requiere instalar paquetes externos.

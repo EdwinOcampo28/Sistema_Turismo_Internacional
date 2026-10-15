@@ -1,0 +1,2573 @@
+{
+  "localFlights": [
+    {
+      "id": "air-bucaramanga-bogota",
+      "name": "Bucaramanga → Bogotá (avión nacional · solo ida)",
+      "price": 280000
+    },
+    {
+      "id": "air-bogota-bucaramanga",
+      "name": "Bogotá → Bucaramanga (avión nacional · solo ida)",
+      "price": 280000
+    },
+    {
+      "id": "air-bucaramanga-medellin",
+      "name": "Bucaramanga → Medellín (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-medellin-bucaramanga",
+      "name": "Medellín → Bucaramanga (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-bucaramanga-cali",
+      "name": "Bucaramanga → Cali (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-cali-bucaramanga",
+      "name": "Cali → Bucaramanga (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-bucaramanga-cartagena",
+      "name": "Bucaramanga → Cartagena (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-cartagena-bucaramanga",
+      "name": "Cartagena → Bucaramanga (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-bucaramanga-santa-marta",
+      "name": "Bucaramanga → Santa Marta (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-santa-marta-bucaramanga",
+      "name": "Santa Marta → Bucaramanga (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-bucaramanga-cucuta",
+      "name": "Bucaramanga → Cúcuta (avión nacional · solo ida)",
+      "price": 240000
+    },
+    {
+      "id": "air-cucuta-bucaramanga",
+      "name": "Cúcuta → Bucaramanga (avión nacional · solo ida)",
+      "price": 240000
+    },
+    {
+      "id": "air-bucaramanga-barranquilla",
+      "name": "Bucaramanga → Barranquilla (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-barranquilla-bucaramanga",
+      "name": "Barranquilla → Bucaramanga (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-bucaramanga-pereira",
+      "name": "Bucaramanga → Pereira (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-pereira-bucaramanga",
+      "name": "Pereira → Bucaramanga (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-bucaramanga-san-andres",
+      "name": "Bucaramanga → San Andrés (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-san-andres-bucaramanga",
+      "name": "San Andrés → Bucaramanga (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-bucaramanga-armenia",
+      "name": "Bucaramanga → Armenia (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-armenia-bucaramanga",
+      "name": "Armenia → Bucaramanga (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-bucaramanga-pasto",
+      "name": "Bucaramanga → Pasto (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-pasto-bucaramanga",
+      "name": "Pasto → Bucaramanga (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-bucaramanga-villavicencio",
+      "name": "Bucaramanga → Villavicencio (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-villavicencio-bucaramanga",
+      "name": "Villavicencio → Bucaramanga (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-bucaramanga-monteria",
+      "name": "Bucaramanga → Montería (avión nacional · solo ida)",
+      "price": 400000
+    },
+    {
+      "id": "air-monteria-bucaramanga",
+      "name": "Montería → Bucaramanga (avión nacional · solo ida)",
+      "price": 400000
+    },
+    {
+      "id": "air-bogota-medellin",
+      "name": "Bogotá → Medellín (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-medellin-bogota",
+      "name": "Medellín → Bogotá (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-bogota-cali",
+      "name": "Bogotá → Cali (avión nacional · solo ida)",
+      "price": 290000
+    },
+    {
+      "id": "air-cali-bogota",
+      "name": "Cali → Bogotá (avión nacional · solo ida)",
+      "price": 290000
+    },
+    {
+      "id": "air-bogota-cartagena",
+      "name": "Bogotá → Cartagena (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-cartagena-bogota",
+      "name": "Cartagena → Bogotá (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-bogota-santa-marta",
+      "name": "Bogotá → Santa Marta (avión nacional · solo ida)",
+      "price": 310000
+    },
+    {
+      "id": "air-santa-marta-bogota",
+      "name": "Santa Marta → Bogotá (avión nacional · solo ida)",
+      "price": 310000
+    },
+    {
+      "id": "air-bogota-cucuta",
+      "name": "Bogotá → Cúcuta (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-cucuta-bogota",
+      "name": "Cúcuta → Bogotá (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-bogota-barranquilla",
+      "name": "Bogotá → Barranquilla (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-barranquilla-bogota",
+      "name": "Barranquilla → Bogotá (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-bogota-pereira",
+      "name": "Bogotá → Pereira (avión nacional · solo ida)",
+      "price": 260000
+    },
+    {
+      "id": "air-pereira-bogota",
+      "name": "Pereira → Bogotá (avión nacional · solo ida)",
+      "price": 260000
+    },
+    {
+      "id": "air-bogota-san-andres",
+      "name": "Bogotá → San Andrés (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-san-andres-bogota",
+      "name": "San Andrés → Bogotá (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-bogota-armenia",
+      "name": "Bogotá → Armenia (avión nacional · solo ida)",
+      "price": 250000
+    },
+    {
+      "id": "air-armenia-bogota",
+      "name": "Armenia → Bogotá (avión nacional · solo ida)",
+      "price": 250000
+    },
+    {
+      "id": "air-bogota-pasto",
+      "name": "Bogotá → Pasto (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-pasto-bogota",
+      "name": "Pasto → Bogotá (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-bogota-villavicencio",
+      "name": "Bogotá → Villavicencio (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-villavicencio-bogota",
+      "name": "Villavicencio → Bogotá (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-bogota-monteria",
+      "name": "Bogotá → Montería (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-monteria-bogota",
+      "name": "Montería → Bogotá (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-medellin-cali",
+      "name": "Medellín → Cali (avión nacional · solo ida)",
+      "price": 280000
+    },
+    {
+      "id": "air-cali-medellin",
+      "name": "Cali → Medellín (avión nacional · solo ida)",
+      "price": 280000
+    },
+    {
+      "id": "air-medellin-cartagena",
+      "name": "Medellín → Cartagena (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-cartagena-medellin",
+      "name": "Cartagena → Medellín (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-medellin-santa-marta",
+      "name": "Medellín → Santa Marta (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-santa-marta-medellin",
+      "name": "Santa Marta → Medellín (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-medellin-cucuta",
+      "name": "Medellín → Cúcuta (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-cucuta-medellin",
+      "name": "Cúcuta → Medellín (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-medellin-barranquilla",
+      "name": "Medellín → Barranquilla (avión nacional · solo ida)",
+      "price": 310000
+    },
+    {
+      "id": "air-barranquilla-medellin",
+      "name": "Barranquilla → Medellín (avión nacional · solo ida)",
+      "price": 310000
+    },
+    {
+      "id": "air-medellin-pereira",
+      "name": "Medellín → Pereira (avión nacional · solo ida)",
+      "price": 220000
+    },
+    {
+      "id": "air-pereira-medellin",
+      "name": "Pereira → Medellín (avión nacional · solo ida)",
+      "price": 220000
+    },
+    {
+      "id": "air-medellin-san-andres",
+      "name": "Medellín → San Andrés (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-san-andres-medellin",
+      "name": "San Andrés → Medellín (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-medellin-armenia",
+      "name": "Medellín → Armenia (avión nacional · solo ida)",
+      "price": 230000
+    },
+    {
+      "id": "air-armenia-medellin",
+      "name": "Armenia → Medellín (avión nacional · solo ida)",
+      "price": 230000
+    },
+    {
+      "id": "air-medellin-pasto",
+      "name": "Medellín → Pasto (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-pasto-medellin",
+      "name": "Pasto → Medellín (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-medellin-villavicencio",
+      "name": "Medellín → Villavicencio (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-villavicencio-medellin",
+      "name": "Villavicencio → Medellín (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-medellin-monteria",
+      "name": "Medellín → Montería (avión nacional · solo ida)",
+      "price": 260000
+    },
+    {
+      "id": "air-monteria-medellin",
+      "name": "Montería → Medellín (avión nacional · solo ida)",
+      "price": 260000
+    },
+    {
+      "id": "air-cali-cartagena",
+      "name": "Cali → Cartagena (avión nacional · solo ida)",
+      "price": 430000
+    },
+    {
+      "id": "air-cartagena-cali",
+      "name": "Cartagena → Cali (avión nacional · solo ida)",
+      "price": 430000
+    },
+    {
+      "id": "air-cali-santa-marta",
+      "name": "Cali → Santa Marta (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-santa-marta-cali",
+      "name": "Santa Marta → Cali (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-cali-cucuta",
+      "name": "Cali → Cúcuta (avión nacional · solo ida)",
+      "price": 400000
+    },
+    {
+      "id": "air-cucuta-cali",
+      "name": "Cúcuta → Cali (avión nacional · solo ida)",
+      "price": 400000
+    },
+    {
+      "id": "air-cali-barranquilla",
+      "name": "Cali → Barranquilla (avión nacional · solo ida)",
+      "price": 410000
+    },
+    {
+      "id": "air-barranquilla-cali",
+      "name": "Barranquilla → Cali (avión nacional · solo ida)",
+      "price": 410000
+    },
+    {
+      "id": "air-cali-pereira",
+      "name": "Cali → Pereira (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-pereira-cali",
+      "name": "Pereira → Cali (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-cali-san-andres",
+      "name": "Cali → San Andrés (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-san-andres-cali",
+      "name": "San Andrés → Cali (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-cali-armenia",
+      "name": "Cali → Armenia (avión nacional · solo ida)",
+      "price": 190000
+    },
+    {
+      "id": "air-armenia-cali",
+      "name": "Armenia → Cali (avión nacional · solo ida)",
+      "price": 190000
+    },
+    {
+      "id": "air-cali-pasto",
+      "name": "Cali → Pasto (avión nacional · solo ida)",
+      "price": 240000
+    },
+    {
+      "id": "air-pasto-cali",
+      "name": "Pasto → Cali (avión nacional · solo ida)",
+      "price": 240000
+    },
+    {
+      "id": "air-cali-villavicencio",
+      "name": "Cali → Villavicencio (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-villavicencio-cali",
+      "name": "Villavicencio → Cali (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-cali-monteria",
+      "name": "Cali → Montería (avión nacional · solo ida)",
+      "price": 440000
+    },
+    {
+      "id": "air-monteria-cali",
+      "name": "Montería → Cali (avión nacional · solo ida)",
+      "price": 440000
+    },
+    {
+      "id": "air-cartagena-santa-marta",
+      "name": "Cartagena → Santa Marta (avión nacional · solo ida)",
+      "price": 160000
+    },
+    {
+      "id": "air-santa-marta-cartagena",
+      "name": "Santa Marta → Cartagena (avión nacional · solo ida)",
+      "price": 160000
+    },
+    {
+      "id": "air-cartagena-cucuta",
+      "name": "Cartagena → Cúcuta (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-cucuta-cartagena",
+      "name": "Cúcuta → Cartagena (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-cartagena-barranquilla",
+      "name": "Cartagena → Barranquilla (avión nacional · solo ida)",
+      "price": 150000
+    },
+    {
+      "id": "air-barranquilla-cartagena",
+      "name": "Barranquilla → Cartagena (avión nacional · solo ida)",
+      "price": 150000
+    },
+    {
+      "id": "air-cartagena-pereira",
+      "name": "Cartagena → Pereira (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-pereira-cartagena",
+      "name": "Pereira → Cartagena (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-cartagena-san-andres",
+      "name": "Cartagena → San Andrés (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-san-andres-cartagena",
+      "name": "San Andrés → Cartagena (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-cartagena-armenia",
+      "name": "Cartagena → Armenia (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-armenia-cartagena",
+      "name": "Armenia → Cartagena (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-cartagena-pasto",
+      "name": "Cartagena → Pasto (avión nacional · solo ida)",
+      "price": 500000
+    },
+    {
+      "id": "air-pasto-cartagena",
+      "name": "Pasto → Cartagena (avión nacional · solo ida)",
+      "price": 500000
+    },
+    {
+      "id": "air-cartagena-villavicencio",
+      "name": "Cartagena → Villavicencio (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-villavicencio-cartagena",
+      "name": "Villavicencio → Cartagena (avión nacional · solo ida)",
+      "price": 420000
+    },
+    {
+      "id": "air-cartagena-monteria",
+      "name": "Cartagena → Montería (avión nacional · solo ida)",
+      "price": 190000
+    },
+    {
+      "id": "air-monteria-cartagena",
+      "name": "Montería → Cartagena (avión nacional · solo ida)",
+      "price": 190000
+    },
+    {
+      "id": "air-santa-marta-cucuta",
+      "name": "Santa Marta → Cúcuta (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-cucuta-santa-marta",
+      "name": "Cúcuta → Santa Marta (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-santa-marta-barranquilla",
+      "name": "Santa Marta → Barranquilla (avión nacional · solo ida)",
+      "price": 130000
+    },
+    {
+      "id": "air-barranquilla-santa-marta",
+      "name": "Barranquilla → Santa Marta (avión nacional · solo ida)",
+      "price": 130000
+    },
+    {
+      "id": "air-santa-marta-pereira",
+      "name": "Santa Marta → Pereira (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-pereira-santa-marta",
+      "name": "Pereira → Santa Marta (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-santa-marta-san-andres",
+      "name": "Santa Marta → San Andrés (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-san-andres-santa-marta",
+      "name": "San Andrés → Santa Marta (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-santa-marta-armenia",
+      "name": "Santa Marta → Armenia (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-armenia-santa-marta",
+      "name": "Armenia → Santa Marta (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-santa-marta-pasto",
+      "name": "Santa Marta → Pasto (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-pasto-santa-marta",
+      "name": "Pasto → Santa Marta (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-santa-marta-villavicencio",
+      "name": "Santa Marta → Villavicencio (avión nacional · solo ida)",
+      "price": 410000
+    },
+    {
+      "id": "air-villavicencio-santa-marta",
+      "name": "Villavicencio → Santa Marta (avión nacional · solo ida)",
+      "price": 410000
+    },
+    {
+      "id": "air-santa-marta-monteria",
+      "name": "Santa Marta → Montería (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-monteria-santa-marta",
+      "name": "Montería → Santa Marta (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-cucuta-barranquilla",
+      "name": "Cúcuta → Barranquilla (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-barranquilla-cucuta",
+      "name": "Barranquilla → Cúcuta (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-cucuta-pereira",
+      "name": "Cúcuta → Pereira (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-pereira-cucuta",
+      "name": "Pereira → Cúcuta (avión nacional · solo ida)",
+      "price": 360000
+    },
+    {
+      "id": "air-cucuta-san-andres",
+      "name": "Cúcuta → San Andrés (avión nacional · solo ida)",
+      "price": 540000
+    },
+    {
+      "id": "air-san-andres-cucuta",
+      "name": "San Andrés → Cúcuta (avión nacional · solo ida)",
+      "price": 540000
+    },
+    {
+      "id": "air-cucuta-armenia",
+      "name": "Cúcuta → Armenia (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-armenia-cucuta",
+      "name": "Armenia → Cúcuta (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-cucuta-pasto",
+      "name": "Cúcuta → Pasto (avión nacional · solo ida)",
+      "price": 490000
+    },
+    {
+      "id": "air-pasto-cucuta",
+      "name": "Pasto → Cúcuta (avión nacional · solo ida)",
+      "price": 490000
+    },
+    {
+      "id": "air-cucuta-villavicencio",
+      "name": "Cúcuta → Villavicencio (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-villavicencio-cucuta",
+      "name": "Villavicencio → Cúcuta (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-cucuta-monteria",
+      "name": "Cúcuta → Montería (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-monteria-cucuta",
+      "name": "Montería → Cúcuta (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-barranquilla-pereira",
+      "name": "Barranquilla → Pereira (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-pereira-barranquilla",
+      "name": "Pereira → Barranquilla (avión nacional · solo ida)",
+      "price": 350000
+    },
+    {
+      "id": "air-barranquilla-san-andres",
+      "name": "Barranquilla → San Andrés (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-san-andres-barranquilla",
+      "name": "San Andrés → Barranquilla (avión nacional · solo ida)",
+      "price": 390000
+    },
+    {
+      "id": "air-barranquilla-armenia",
+      "name": "Barranquilla → Armenia (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-armenia-barranquilla",
+      "name": "Armenia → Barranquilla (avión nacional · solo ida)",
+      "price": 340000
+    },
+    {
+      "id": "air-barranquilla-pasto",
+      "name": "Barranquilla → Pasto (avión nacional · solo ida)",
+      "price": 470000
+    },
+    {
+      "id": "air-pasto-barranquilla",
+      "name": "Pasto → Barranquilla (avión nacional · solo ida)",
+      "price": 470000
+    },
+    {
+      "id": "air-barranquilla-villavicencio",
+      "name": "Barranquilla → Villavicencio (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-villavicencio-barranquilla",
+      "name": "Villavicencio → Barranquilla (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-barranquilla-monteria",
+      "name": "Barranquilla → Montería (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-monteria-barranquilla",
+      "name": "Montería → Barranquilla (avión nacional · solo ida)",
+      "price": 180000
+    },
+    {
+      "id": "air-pereira-san-andres",
+      "name": "Pereira → San Andrés (avión nacional · solo ida)",
+      "price": 490000
+    },
+    {
+      "id": "air-san-andres-pereira",
+      "name": "San Andrés → Pereira (avión nacional · solo ida)",
+      "price": 490000
+    },
+    {
+      "id": "air-pereira-armenia",
+      "name": "Pereira → Armenia (avión nacional · solo ida)",
+      "price": 140000
+    },
+    {
+      "id": "air-armenia-pereira",
+      "name": "Armenia → Pereira (avión nacional · solo ida)",
+      "price": 140000
+    },
+    {
+      "id": "air-pereira-pasto",
+      "name": "Pereira → Pasto (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-pasto-pereira",
+      "name": "Pasto → Pereira (avión nacional · solo ida)",
+      "price": 330000
+    },
+    {
+      "id": "air-pereira-villavicencio",
+      "name": "Pereira → Villavicencio (avión nacional · solo ida)",
+      "price": 290000
+    },
+    {
+      "id": "air-villavicencio-pereira",
+      "name": "Villavicencio → Pereira (avión nacional · solo ida)",
+      "price": 290000
+    },
+    {
+      "id": "air-pereira-monteria",
+      "name": "Pereira → Montería (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-monteria-pereira",
+      "name": "Montería → Pereira (avión nacional · solo ida)",
+      "price": 380000
+    },
+    {
+      "id": "air-san-andres-armenia",
+      "name": "San Andrés → Armenia (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-armenia-san-andres",
+      "name": "Armenia → San Andrés (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-san-andres-pasto",
+      "name": "San Andrés → Pasto (avión nacional · solo ida)",
+      "price": 650000
+    },
+    {
+      "id": "air-pasto-san-andres",
+      "name": "Pasto → San Andrés (avión nacional · solo ida)",
+      "price": 650000
+    },
+    {
+      "id": "air-san-andres-villavicencio",
+      "name": "San Andrés → Villavicencio (avión nacional · solo ida)",
+      "price": 550000
+    },
+    {
+      "id": "air-villavicencio-san-andres",
+      "name": "Villavicencio → San Andrés (avión nacional · solo ida)",
+      "price": 550000
+    },
+    {
+      "id": "air-san-andres-monteria",
+      "name": "San Andrés → Montería (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-monteria-san-andres",
+      "name": "Montería → San Andrés (avión nacional · solo ida)",
+      "price": 480000
+    },
+    {
+      "id": "air-armenia-pasto",
+      "name": "Armenia → Pasto (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-pasto-armenia",
+      "name": "Pasto → Armenia (avión nacional · solo ida)",
+      "price": 320000
+    },
+    {
+      "id": "air-armenia-villavicencio",
+      "name": "Armenia → Villavicencio (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-villavicencio-armenia",
+      "name": "Villavicencio → Armenia (avión nacional · solo ida)",
+      "price": 300000
+    },
+    {
+      "id": "air-armenia-monteria",
+      "name": "Armenia → Montería (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-monteria-armenia",
+      "name": "Montería → Armenia (avión nacional · solo ida)",
+      "price": 370000
+    },
+    {
+      "id": "air-pasto-villavicencio",
+      "name": "Pasto → Villavicencio (avión nacional · solo ida)",
+      "price": 430000
+    },
+    {
+      "id": "air-villavicencio-pasto",
+      "name": "Villavicencio → Pasto (avión nacional · solo ida)",
+      "price": 430000
+    },
+    {
+      "id": "air-pasto-monteria",
+      "name": "Pasto → Montería (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-monteria-pasto",
+      "name": "Montería → Pasto (avión nacional · solo ida)",
+      "price": 520000
+    },
+    {
+      "id": "air-villavicencio-monteria",
+      "name": "Villavicencio → Montería (avión nacional · solo ida)",
+      "price": 400000
+    },
+    {
+      "id": "air-monteria-villavicencio",
+      "name": "Montería → Villavicencio (avión nacional · solo ida)",
+      "price": 400000
+    }
+  ],
+  "nationalBuses": [
+    {
+      "id": "bus-bucaramanga-bogota",
+      "name": "Bucaramanga → Bogotá (bus · solo ida)",
+      "price": 95000
+    },
+    {
+      "id": "bus-bogota-bucaramanga",
+      "name": "Bogotá → Bucaramanga (bus · solo ida)",
+      "price": 95000
+    },
+    {
+      "id": "bus-bucaramanga-medellin",
+      "name": "Bucaramanga → Medellín (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-medellin-bucaramanga",
+      "name": "Medellín → Bucaramanga (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-bucaramanga-cali",
+      "name": "Bucaramanga → Cali (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-cali-bucaramanga",
+      "name": "Cali → Bucaramanga (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-bucaramanga-cartagena",
+      "name": "Bucaramanga → Cartagena (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-cartagena-bucaramanga",
+      "name": "Cartagena → Bucaramanga (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-bucaramanga-santa-marta",
+      "name": "Bucaramanga → Santa Marta (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-santa-marta-bucaramanga",
+      "name": "Santa Marta → Bucaramanga (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-bucaramanga-cucuta",
+      "name": "Bucaramanga → Cúcuta (bus · solo ida)",
+      "price": 82000
+    },
+    {
+      "id": "bus-cucuta-bucaramanga",
+      "name": "Cúcuta → Bucaramanga (bus · solo ida)",
+      "price": 82000
+    },
+    {
+      "id": "bus-bucaramanga-barranquilla",
+      "name": "Bucaramanga → Barranquilla (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-barranquilla-bucaramanga",
+      "name": "Barranquilla → Bucaramanga (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-bucaramanga-pereira",
+      "name": "Bucaramanga → Pereira (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-pereira-bucaramanga",
+      "name": "Pereira → Bucaramanga (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-bucaramanga-san-andres",
+      "name": "Bucaramanga → San Andrés (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-san-andres-bucaramanga",
+      "name": "San Andrés → Bucaramanga (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-bucaramanga-armenia",
+      "name": "Bucaramanga → Armenia (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-armenia-bucaramanga",
+      "name": "Armenia → Bucaramanga (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-bucaramanga-pasto",
+      "name": "Bucaramanga → Pasto (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-pasto-bucaramanga",
+      "name": "Pasto → Bucaramanga (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-bucaramanga-villavicencio",
+      "name": "Bucaramanga → Villavicencio (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-villavicencio-bucaramanga",
+      "name": "Villavicencio → Bucaramanga (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-bucaramanga-monteria",
+      "name": "Bucaramanga → Montería (bus · solo ida)",
+      "price": 136000
+    },
+    {
+      "id": "bus-monteria-bucaramanga",
+      "name": "Montería → Bucaramanga (bus · solo ida)",
+      "price": 136000
+    },
+    {
+      "id": "bus-bogota-medellin",
+      "name": "Bogotá → Medellín (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-medellin-bogota",
+      "name": "Medellín → Bogotá (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-bogota-cali",
+      "name": "Bogotá → Cali (bus · solo ida)",
+      "price": 99000
+    },
+    {
+      "id": "bus-cali-bogota",
+      "name": "Cali → Bogotá (bus · solo ida)",
+      "price": 99000
+    },
+    {
+      "id": "bus-bogota-cartagena",
+      "name": "Bogotá → Cartagena (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-cartagena-bogota",
+      "name": "Cartagena → Bogotá (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-bogota-santa-marta",
+      "name": "Bogotá → Santa Marta (bus · solo ida)",
+      "price": 105000
+    },
+    {
+      "id": "bus-santa-marta-bogota",
+      "name": "Santa Marta → Bogotá (bus · solo ida)",
+      "price": 105000
+    },
+    {
+      "id": "bus-bogota-cucuta",
+      "name": "Bogotá → Cúcuta (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-cucuta-bogota",
+      "name": "Cúcuta → Bogotá (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-bogota-barranquilla",
+      "name": "Bogotá → Barranquilla (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-barranquilla-bogota",
+      "name": "Barranquilla → Bogotá (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-bogota-pereira",
+      "name": "Bogotá → Pereira (bus · solo ida)",
+      "price": 88000
+    },
+    {
+      "id": "bus-pereira-bogota",
+      "name": "Pereira → Bogotá (bus · solo ida)",
+      "price": 88000
+    },
+    {
+      "id": "bus-bogota-san-andres",
+      "name": "Bogotá → San Andrés (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-san-andres-bogota",
+      "name": "San Andrés → Bogotá (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-bogota-armenia",
+      "name": "Bogotá → Armenia (bus · solo ida)",
+      "price": 85000
+    },
+    {
+      "id": "bus-armenia-bogota",
+      "name": "Armenia → Bogotá (bus · solo ida)",
+      "price": 85000
+    },
+    {
+      "id": "bus-bogota-pasto",
+      "name": "Bogotá → Pasto (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-pasto-bogota",
+      "name": "Pasto → Bogotá (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-bogota-villavicencio",
+      "name": "Bogotá → Villavicencio (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-villavicencio-bogota",
+      "name": "Villavicencio → Bogotá (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-bogota-monteria",
+      "name": "Bogotá → Montería (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-monteria-bogota",
+      "name": "Montería → Bogotá (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-medellin-cali",
+      "name": "Medellín → Cali (bus · solo ida)",
+      "price": 95000
+    },
+    {
+      "id": "bus-cali-medellin",
+      "name": "Cali → Medellín (bus · solo ida)",
+      "price": 95000
+    },
+    {
+      "id": "bus-medellin-cartagena",
+      "name": "Medellín → Cartagena (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-cartagena-medellin",
+      "name": "Cartagena → Medellín (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-medellin-santa-marta",
+      "name": "Medellín → Santa Marta (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-santa-marta-medellin",
+      "name": "Santa Marta → Medellín (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-medellin-cucuta",
+      "name": "Medellín → Cúcuta (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-cucuta-medellin",
+      "name": "Cúcuta → Medellín (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-medellin-barranquilla",
+      "name": "Medellín → Barranquilla (bus · solo ida)",
+      "price": 105000
+    },
+    {
+      "id": "bus-barranquilla-medellin",
+      "name": "Barranquilla → Medellín (bus · solo ida)",
+      "price": 105000
+    },
+    {
+      "id": "bus-medellin-pereira",
+      "name": "Medellín → Pereira (bus · solo ida)",
+      "price": 75000
+    },
+    {
+      "id": "bus-pereira-medellin",
+      "name": "Pereira → Medellín (bus · solo ida)",
+      "price": 75000
+    },
+    {
+      "id": "bus-medellin-san-andres",
+      "name": "Medellín → San Andrés (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-san-andres-medellin",
+      "name": "San Andrés → Medellín (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-medellin-armenia",
+      "name": "Medellín → Armenia (bus · solo ida)",
+      "price": 78000
+    },
+    {
+      "id": "bus-armenia-medellin",
+      "name": "Armenia → Medellín (bus · solo ida)",
+      "price": 78000
+    },
+    {
+      "id": "bus-medellin-pasto",
+      "name": "Medellín → Pasto (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-pasto-medellin",
+      "name": "Pasto → Medellín (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-medellin-villavicencio",
+      "name": "Medellín → Villavicencio (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-villavicencio-medellin",
+      "name": "Villavicencio → Medellín (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-medellin-monteria",
+      "name": "Medellín → Montería (bus · solo ida)",
+      "price": 88000
+    },
+    {
+      "id": "bus-monteria-medellin",
+      "name": "Montería → Medellín (bus · solo ida)",
+      "price": 88000
+    },
+    {
+      "id": "bus-cali-cartagena",
+      "name": "Cali → Cartagena (bus · solo ida)",
+      "price": 146000
+    },
+    {
+      "id": "bus-cartagena-cali",
+      "name": "Cartagena → Cali (bus · solo ida)",
+      "price": 146000
+    },
+    {
+      "id": "bus-cali-santa-marta",
+      "name": "Cali → Santa Marta (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-santa-marta-cali",
+      "name": "Santa Marta → Cali (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-cali-cucuta",
+      "name": "Cali → Cúcuta (bus · solo ida)",
+      "price": 136000
+    },
+    {
+      "id": "bus-cucuta-cali",
+      "name": "Cúcuta → Cali (bus · solo ida)",
+      "price": 136000
+    },
+    {
+      "id": "bus-cali-barranquilla",
+      "name": "Cali → Barranquilla (bus · solo ida)",
+      "price": 139000
+    },
+    {
+      "id": "bus-barranquilla-cali",
+      "name": "Barranquilla → Cali (bus · solo ida)",
+      "price": 139000
+    },
+    {
+      "id": "bus-cali-pereira",
+      "name": "Cali → Pereira (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-pereira-cali",
+      "name": "Pereira → Cali (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-cali-san-andres",
+      "name": "Cali → San Andrés (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-san-andres-cali",
+      "name": "San Andrés → Cali (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-cali-armenia",
+      "name": "Cali → Armenia (bus · solo ida)",
+      "price": 65000
+    },
+    {
+      "id": "bus-armenia-cali",
+      "name": "Armenia → Cali (bus · solo ida)",
+      "price": 65000
+    },
+    {
+      "id": "bus-cali-pasto",
+      "name": "Cali → Pasto (bus · solo ida)",
+      "price": 82000
+    },
+    {
+      "id": "bus-pasto-cali",
+      "name": "Pasto → Cali (bus · solo ida)",
+      "price": 82000
+    },
+    {
+      "id": "bus-cali-villavicencio",
+      "name": "Cali → Villavicencio (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-villavicencio-cali",
+      "name": "Villavicencio → Cali (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-cali-monteria",
+      "name": "Cali → Montería (bus · solo ida)",
+      "price": 150000
+    },
+    {
+      "id": "bus-monteria-cali",
+      "name": "Montería → Cali (bus · solo ida)",
+      "price": 150000
+    },
+    {
+      "id": "bus-cartagena-santa-marta",
+      "name": "Cartagena → Santa Marta (bus · solo ida)",
+      "price": 54000
+    },
+    {
+      "id": "bus-santa-marta-cartagena",
+      "name": "Santa Marta → Cartagena (bus · solo ida)",
+      "price": 54000
+    },
+    {
+      "id": "bus-cartagena-cucuta",
+      "name": "Cartagena → Cúcuta (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-cucuta-cartagena",
+      "name": "Cúcuta → Cartagena (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-cartagena-barranquilla",
+      "name": "Cartagena → Barranquilla (bus · solo ida)",
+      "price": 51000
+    },
+    {
+      "id": "bus-barranquilla-cartagena",
+      "name": "Barranquilla → Cartagena (bus · solo ida)",
+      "price": 51000
+    },
+    {
+      "id": "bus-cartagena-pereira",
+      "name": "Cartagena → Pereira (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-pereira-cartagena",
+      "name": "Pereira → Cartagena (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-cartagena-san-andres",
+      "name": "Cartagena → San Andrés (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-san-andres-cartagena",
+      "name": "San Andrés → Cartagena (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-cartagena-armenia",
+      "name": "Cartagena → Armenia (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-armenia-cartagena",
+      "name": "Armenia → Cartagena (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-cartagena-pasto",
+      "name": "Cartagena → Pasto (bus · solo ida)",
+      "price": 170000
+    },
+    {
+      "id": "bus-pasto-cartagena",
+      "name": "Pasto → Cartagena (bus · solo ida)",
+      "price": 170000
+    },
+    {
+      "id": "bus-cartagena-villavicencio",
+      "name": "Cartagena → Villavicencio (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-villavicencio-cartagena",
+      "name": "Villavicencio → Cartagena (bus · solo ida)",
+      "price": 143000
+    },
+    {
+      "id": "bus-cartagena-monteria",
+      "name": "Cartagena → Montería (bus · solo ida)",
+      "price": 65000
+    },
+    {
+      "id": "bus-monteria-cartagena",
+      "name": "Montería → Cartagena (bus · solo ida)",
+      "price": 65000
+    },
+    {
+      "id": "bus-santa-marta-cucuta",
+      "name": "Santa Marta → Cúcuta (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-cucuta-santa-marta",
+      "name": "Cúcuta → Santa Marta (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-santa-marta-barranquilla",
+      "name": "Santa Marta → Barranquilla (bus · solo ida)",
+      "price": 44000
+    },
+    {
+      "id": "bus-barranquilla-santa-marta",
+      "name": "Barranquilla → Santa Marta (bus · solo ida)",
+      "price": 44000
+    },
+    {
+      "id": "bus-santa-marta-pereira",
+      "name": "Santa Marta → Pereira (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-pereira-santa-marta",
+      "name": "Pereira → Santa Marta (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-santa-marta-san-andres",
+      "name": "Santa Marta → San Andrés (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-san-andres-santa-marta",
+      "name": "San Andrés → Santa Marta (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-santa-marta-armenia",
+      "name": "Santa Marta → Armenia (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-armenia-santa-marta",
+      "name": "Armenia → Santa Marta (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-santa-marta-pasto",
+      "name": "Santa Marta → Pasto (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-pasto-santa-marta",
+      "name": "Pasto → Santa Marta (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-santa-marta-villavicencio",
+      "name": "Santa Marta → Villavicencio (bus · solo ida)",
+      "price": 139000
+    },
+    {
+      "id": "bus-villavicencio-santa-marta",
+      "name": "Villavicencio → Santa Marta (bus · solo ida)",
+      "price": 139000
+    },
+    {
+      "id": "bus-santa-marta-monteria",
+      "name": "Santa Marta → Montería (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-monteria-santa-marta",
+      "name": "Montería → Santa Marta (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-cucuta-barranquilla",
+      "name": "Cúcuta → Barranquilla (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-barranquilla-cucuta",
+      "name": "Barranquilla → Cúcuta (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-cucuta-pereira",
+      "name": "Cúcuta → Pereira (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-pereira-cucuta",
+      "name": "Pereira → Cúcuta (bus · solo ida)",
+      "price": 122000
+    },
+    {
+      "id": "bus-cucuta-san-andres",
+      "name": "Cúcuta → San Andrés (bus · solo ida)",
+      "price": 184000
+    },
+    {
+      "id": "bus-san-andres-cucuta",
+      "name": "San Andrés → Cúcuta (bus · solo ida)",
+      "price": 184000
+    },
+    {
+      "id": "bus-cucuta-armenia",
+      "name": "Cúcuta → Armenia (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-armenia-cucuta",
+      "name": "Armenia → Cúcuta (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-cucuta-pasto",
+      "name": "Cúcuta → Pasto (bus · solo ida)",
+      "price": 167000
+    },
+    {
+      "id": "bus-pasto-cucuta",
+      "name": "Pasto → Cúcuta (bus · solo ida)",
+      "price": 167000
+    },
+    {
+      "id": "bus-cucuta-villavicencio",
+      "name": "Cúcuta → Villavicencio (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-villavicencio-cucuta",
+      "name": "Villavicencio → Cúcuta (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-cucuta-monteria",
+      "name": "Cúcuta → Montería (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-monteria-cucuta",
+      "name": "Montería → Cúcuta (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-barranquilla-pereira",
+      "name": "Barranquilla → Pereira (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-pereira-barranquilla",
+      "name": "Pereira → Barranquilla (bus · solo ida)",
+      "price": 119000
+    },
+    {
+      "id": "bus-barranquilla-san-andres",
+      "name": "Barranquilla → San Andrés (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-san-andres-barranquilla",
+      "name": "San Andrés → Barranquilla (bus · solo ida)",
+      "price": 133000
+    },
+    {
+      "id": "bus-barranquilla-armenia",
+      "name": "Barranquilla → Armenia (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-armenia-barranquilla",
+      "name": "Armenia → Barranquilla (bus · solo ida)",
+      "price": 116000
+    },
+    {
+      "id": "bus-barranquilla-pasto",
+      "name": "Barranquilla → Pasto (bus · solo ida)",
+      "price": 160000
+    },
+    {
+      "id": "bus-pasto-barranquilla",
+      "name": "Pasto → Barranquilla (bus · solo ida)",
+      "price": 160000
+    },
+    {
+      "id": "bus-barranquilla-villavicencio",
+      "name": "Barranquilla → Villavicencio (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-villavicencio-barranquilla",
+      "name": "Villavicencio → Barranquilla (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-barranquilla-monteria",
+      "name": "Barranquilla → Montería (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-monteria-barranquilla",
+      "name": "Montería → Barranquilla (bus · solo ida)",
+      "price": 61000
+    },
+    {
+      "id": "bus-pereira-san-andres",
+      "name": "Pereira → San Andrés (bus · solo ida)",
+      "price": 167000
+    },
+    {
+      "id": "bus-san-andres-pereira",
+      "name": "San Andrés → Pereira (bus · solo ida)",
+      "price": 167000
+    },
+    {
+      "id": "bus-pereira-armenia",
+      "name": "Pereira → Armenia (bus · solo ida)",
+      "price": 48000
+    },
+    {
+      "id": "bus-armenia-pereira",
+      "name": "Armenia → Pereira (bus · solo ida)",
+      "price": 48000
+    },
+    {
+      "id": "bus-pereira-pasto",
+      "name": "Pereira → Pasto (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-pasto-pereira",
+      "name": "Pasto → Pereira (bus · solo ida)",
+      "price": 112000
+    },
+    {
+      "id": "bus-pereira-villavicencio",
+      "name": "Pereira → Villavicencio (bus · solo ida)",
+      "price": 99000
+    },
+    {
+      "id": "bus-villavicencio-pereira",
+      "name": "Villavicencio → Pereira (bus · solo ida)",
+      "price": 99000
+    },
+    {
+      "id": "bus-pereira-monteria",
+      "name": "Pereira → Montería (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-monteria-pereira",
+      "name": "Montería → Pereira (bus · solo ida)",
+      "price": 129000
+    },
+    {
+      "id": "bus-san-andres-armenia",
+      "name": "San Andrés → Armenia (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-armenia-san-andres",
+      "name": "Armenia → San Andrés (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-san-andres-pasto",
+      "name": "San Andrés → Pasto (bus · solo ida)",
+      "price": 221000
+    },
+    {
+      "id": "bus-pasto-san-andres",
+      "name": "Pasto → San Andrés (bus · solo ida)",
+      "price": 221000
+    },
+    {
+      "id": "bus-san-andres-villavicencio",
+      "name": "San Andrés → Villavicencio (bus · solo ida)",
+      "price": 187000
+    },
+    {
+      "id": "bus-villavicencio-san-andres",
+      "name": "Villavicencio → San Andrés (bus · solo ida)",
+      "price": 187000
+    },
+    {
+      "id": "bus-san-andres-monteria",
+      "name": "San Andrés → Montería (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-monteria-san-andres",
+      "name": "Montería → San Andrés (bus · solo ida)",
+      "price": 163000
+    },
+    {
+      "id": "bus-armenia-pasto",
+      "name": "Armenia → Pasto (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-pasto-armenia",
+      "name": "Pasto → Armenia (bus · solo ida)",
+      "price": 109000
+    },
+    {
+      "id": "bus-armenia-villavicencio",
+      "name": "Armenia → Villavicencio (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-villavicencio-armenia",
+      "name": "Villavicencio → Armenia (bus · solo ida)",
+      "price": 102000
+    },
+    {
+      "id": "bus-armenia-monteria",
+      "name": "Armenia → Montería (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-monteria-armenia",
+      "name": "Montería → Armenia (bus · solo ida)",
+      "price": 126000
+    },
+    {
+      "id": "bus-pasto-villavicencio",
+      "name": "Pasto → Villavicencio (bus · solo ida)",
+      "price": 146000
+    },
+    {
+      "id": "bus-villavicencio-pasto",
+      "name": "Villavicencio → Pasto (bus · solo ida)",
+      "price": 146000
+    },
+    {
+      "id": "bus-pasto-monteria",
+      "name": "Pasto → Montería (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-monteria-pasto",
+      "name": "Montería → Pasto (bus · solo ida)",
+      "price": 177000
+    },
+    {
+      "id": "bus-villavicencio-monteria",
+      "name": "Villavicencio → Montería (bus · solo ida)",
+      "price": 136000
+    },
+    {
+      "id": "bus-monteria-villavicencio",
+      "name": "Montería → Villavicencio (bus · solo ida)",
+      "price": 136000
+    }
+  ],
+  "demoCustomers": [
+    {
+      "id": "4821",
+      "first": "Laura",
+      "last": "Martínez"
+    },
+    {
+      "id": "7305",
+      "first": "Andrés",
+      "last": "Gómez"
+    },
+    {
+      "id": "1946",
+      "first": "Camila",
+      "last": "Rodríguez"
+    },
+    {
+      "id": "6258",
+      "first": "Mateo",
+      "last": "Pérez"
+    },
+    {
+      "id": "3087",
+      "first": "Valentina",
+      "last": "Rojas"
+    }
+  ],
+  "packageOptions": {
+    "flight": [
+      {
+        "id": "intl-bogota-ciudad-de-mexico-ida",
+        "name": "Bogotá → Ciudad de México, México (ida)",
+        "price": 1450000
+      },
+      {
+        "id": "intl-bogota-ciudad-de-mexico-vuelta",
+        "name": "Ciudad de México, México → Bogotá (vuelta)",
+        "price": 1450000
+      },
+      {
+        "id": "intl-bogota-cancun-ida",
+        "name": "Bogotá → Cancún, México (ida)",
+        "price": 1650000
+      },
+      {
+        "id": "intl-bogota-cancun-vuelta",
+        "name": "Cancún, México → Bogotá (vuelta)",
+        "price": 1650000
+      },
+      {
+        "id": "intl-bogota-toronto-ida",
+        "name": "Bogotá → Toronto, Canadá (ida)",
+        "price": 2350000
+      },
+      {
+        "id": "intl-bogota-toronto-vuelta",
+        "name": "Toronto, Canadá → Bogotá (vuelta)",
+        "price": 2350000
+      },
+      {
+        "id": "intl-bogota-vancouver-ida",
+        "name": "Bogotá → Vancouver, Canadá (ida)",
+        "price": 2850000
+      },
+      {
+        "id": "intl-bogota-vancouver-vuelta",
+        "name": "Vancouver, Canadá → Bogotá (vuelta)",
+        "price": 2850000
+      },
+      {
+        "id": "intl-bogota-miami-ida",
+        "name": "Bogotá → Miami, Estados Unidos (ida)",
+        "price": 1850000
+      },
+      {
+        "id": "intl-bogota-miami-vuelta",
+        "name": "Miami, Estados Unidos → Bogotá (vuelta)",
+        "price": 1850000
+      },
+      {
+        "id": "intl-bogota-orlando-ida",
+        "name": "Bogotá → Orlando, Estados Unidos (ida)",
+        "price": 2100000
+      },
+      {
+        "id": "intl-bogota-orlando-vuelta",
+        "name": "Orlando, Estados Unidos → Bogotá (vuelta)",
+        "price": 2100000
+      },
+      {
+        "id": "intl-bogota-nueva-york-ida",
+        "name": "Bogotá → Nueva York, Estados Unidos (ida)",
+        "price": 2450000
+      },
+      {
+        "id": "intl-bogota-nueva-york-vuelta",
+        "name": "Nueva York, Estados Unidos → Bogotá (vuelta)",
+        "price": 2450000
+      },
+      {
+        "id": "intl-bogota-madrid-ida",
+        "name": "Bogotá → Madrid, España (ida)",
+        "price": 3200000
+      },
+      {
+        "id": "intl-bogota-madrid-vuelta",
+        "name": "Madrid, España → Bogotá (vuelta)",
+        "price": 3200000
+      },
+      {
+        "id": "intl-bogota-paris-ida",
+        "name": "Bogotá → París, Francia (ida)",
+        "price": 3650000
+      },
+      {
+        "id": "intl-bogota-paris-vuelta",
+        "name": "París, Francia → Bogotá (vuelta)",
+        "price": 3650000
+      },
+      {
+        "id": "intl-bogota-londres-ida",
+        "name": "Bogotá → Londres, Reino Unido (ida)",
+        "price": 3800000
+      },
+      {
+        "id": "intl-bogota-londres-vuelta",
+        "name": "Londres, Reino Unido → Bogotá (vuelta)",
+        "price": 3800000
+      },
+      {
+        "id": "intl-bogota-são-paulo-ida",
+        "name": "Bogotá → São Paulo, Brasil (ida)",
+        "price": 1950000
+      },
+      {
+        "id": "intl-bogota-são-paulo-vuelta",
+        "name": "São Paulo, Brasil → Bogotá (vuelta)",
+        "price": 1950000
+      },
+      {
+        "id": "intl-bogota-buenos-aires-ida",
+        "name": "Bogotá → Buenos Aires, Argentina (ida)",
+        "price": 2300000
+      },
+      {
+        "id": "intl-bogota-buenos-aires-vuelta",
+        "name": "Buenos Aires, Argentina → Bogotá (vuelta)",
+        "price": 2300000
+      },
+      {
+        "id": "intl-bogota-santiago-ida",
+        "name": "Bogotá → Santiago, Chile (ida)",
+        "price": 2150000
+      },
+      {
+        "id": "intl-bogota-santiago-vuelta",
+        "name": "Santiago, Chile → Bogotá (vuelta)",
+        "price": 2150000
+      },
+      {
+        "id": "intl-bogota-lima-ida",
+        "name": "Bogotá → Lima, Perú (ida)",
+        "price": 1250000
+      },
+      {
+        "id": "intl-bogota-lima-vuelta",
+        "name": "Lima, Perú → Bogotá (vuelta)",
+        "price": 1250000
+      },
+      {
+        "id": "intl-bogota-ciudad-de-panama-ida",
+        "name": "Bogotá → Ciudad de Panamá, Panamá (ida)",
+        "price": 980000
+      },
+      {
+        "id": "intl-bogota-ciudad-de-panama-vuelta",
+        "name": "Ciudad de Panamá, Panamá → Bogotá (vuelta)",
+        "price": 980000
+      },
+      {
+        "id": "intl-bogota-san-jose-ida",
+        "name": "Bogotá → San José, Costa Rica (ida)",
+        "price": 1150000
+      },
+      {
+        "id": "intl-bogota-san-jose-vuelta",
+        "name": "San José, Costa Rica → Bogotá (vuelta)",
+        "price": 1150000
+      },
+      {
+        "id": "intl-medellin-ciudad-de-mexico-ida",
+        "name": "Medellín → Ciudad de México, México (ida)",
+        "price": 1508000
+      },
+      {
+        "id": "intl-medellin-ciudad-de-mexico-vuelta",
+        "name": "Ciudad de México, México → Medellín (vuelta)",
+        "price": 1508000
+      },
+      {
+        "id": "intl-medellin-cancun-ida",
+        "name": "Medellín → Cancún, México (ida)",
+        "price": 1716000
+      },
+      {
+        "id": "intl-medellin-cancun-vuelta",
+        "name": "Cancún, México → Medellín (vuelta)",
+        "price": 1716000
+      },
+      {
+        "id": "intl-medellin-toronto-ida",
+        "name": "Medellín → Toronto, Canadá (ida)",
+        "price": 2444000
+      },
+      {
+        "id": "intl-medellin-toronto-vuelta",
+        "name": "Toronto, Canadá → Medellín (vuelta)",
+        "price": 2444000
+      },
+      {
+        "id": "intl-medellin-vancouver-ida",
+        "name": "Medellín → Vancouver, Canadá (ida)",
+        "price": 2964000
+      },
+      {
+        "id": "intl-medellin-vancouver-vuelta",
+        "name": "Vancouver, Canadá → Medellín (vuelta)",
+        "price": 2964000
+      },
+      {
+        "id": "intl-medellin-miami-ida",
+        "name": "Medellín → Miami, Estados Unidos (ida)",
+        "price": 1924000
+      },
+      {
+        "id": "intl-medellin-miami-vuelta",
+        "name": "Miami, Estados Unidos → Medellín (vuelta)",
+        "price": 1924000
+      },
+      {
+        "id": "intl-medellin-orlando-ida",
+        "name": "Medellín → Orlando, Estados Unidos (ida)",
+        "price": 2184000
+      },
+      {
+        "id": "intl-medellin-orlando-vuelta",
+        "name": "Orlando, Estados Unidos → Medellín (vuelta)",
+        "price": 2184000
+      },
+      {
+        "id": "intl-medellin-nueva-york-ida",
+        "name": "Medellín → Nueva York, Estados Unidos (ida)",
+        "price": 2548000
+      },
+      {
+        "id": "intl-medellin-nueva-york-vuelta",
+        "name": "Nueva York, Estados Unidos → Medellín (vuelta)",
+        "price": 2548000
+      },
+      {
+        "id": "intl-medellin-madrid-ida",
+        "name": "Medellín → Madrid, España (ida)",
+        "price": 3328000
+      },
+      {
+        "id": "intl-medellin-madrid-vuelta",
+        "name": "Madrid, España → Medellín (vuelta)",
+        "price": 3328000
+      },
+      {
+        "id": "intl-medellin-paris-ida",
+        "name": "Medellín → París, Francia (ida)",
+        "price": 3796000
+      },
+      {
+        "id": "intl-medellin-paris-vuelta",
+        "name": "París, Francia → Medellín (vuelta)",
+        "price": 3796000
+      },
+      {
+        "id": "intl-medellin-londres-ida",
+        "name": "Medellín → Londres, Reino Unido (ida)",
+        "price": 3952000
+      },
+      {
+        "id": "intl-medellin-londres-vuelta",
+        "name": "Londres, Reino Unido → Medellín (vuelta)",
+        "price": 3952000
+      },
+      {
+        "id": "intl-medellin-são-paulo-ida",
+        "name": "Medellín → São Paulo, Brasil (ida)",
+        "price": 2028000
+      },
+      {
+        "id": "intl-medellin-são-paulo-vuelta",
+        "name": "São Paulo, Brasil → Medellín (vuelta)",
+        "price": 2028000
+      },
+      {
+        "id": "intl-medellin-buenos-aires-ida",
+        "name": "Medellín → Buenos Aires, Argentina (ida)",
+        "price": 2392000
+      },
+      {
+        "id": "intl-medellin-buenos-aires-vuelta",
+        "name": "Buenos Aires, Argentina → Medellín (vuelta)",
+        "price": 2392000
+      },
+      {
+        "id": "intl-medellin-santiago-ida",
+        "name": "Medellín → Santiago, Chile (ida)",
+        "price": 2236000
+      },
+      {
+        "id": "intl-medellin-santiago-vuelta",
+        "name": "Santiago, Chile → Medellín (vuelta)",
+        "price": 2236000
+      },
+      {
+        "id": "intl-medellin-lima-ida",
+        "name": "Medellín → Lima, Perú (ida)",
+        "price": 1300000
+      },
+      {
+        "id": "intl-medellin-lima-vuelta",
+        "name": "Lima, Perú → Medellín (vuelta)",
+        "price": 1300000
+      },
+      {
+        "id": "intl-medellin-ciudad-de-panama-ida",
+        "name": "Medellín → Ciudad de Panamá, Panamá (ida)",
+        "price": 1019000
+      },
+      {
+        "id": "intl-medellin-ciudad-de-panama-vuelta",
+        "name": "Ciudad de Panamá, Panamá → Medellín (vuelta)",
+        "price": 1019000
+      },
+      {
+        "id": "intl-medellin-san-jose-ida",
+        "name": "Medellín → San José, Costa Rica (ida)",
+        "price": 1196000
+      },
+      {
+        "id": "intl-medellin-san-jose-vuelta",
+        "name": "San José, Costa Rica → Medellín (vuelta)",
+        "price": 1196000
+      }
+    ],
+    "lodging": [],
+    "food": [],
+    "activity": []
+  },
+  "routeLegs": [
+    {
+      "id": "ret-mia-bog",
+      "from": "Miami",
+      "fromCountry": "Estados Unidos",
+      "to": "Bogotá",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1850000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-mia-med",
+      "from": "Miami",
+      "fromCountry": "Estados Unidos",
+      "to": "Medellín",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1924000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-mex-bog",
+      "from": "Ciudad de México",
+      "fromCountry": "México",
+      "to": "Bogotá",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1450000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-mex-med",
+      "from": "Ciudad de México",
+      "fromCountry": "México",
+      "to": "Medellín",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1508000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-mad-bog",
+      "from": "Madrid",
+      "fromCountry": "España",
+      "to": "Bogotá",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 3200000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-mad-med",
+      "from": "Madrid",
+      "fromCountry": "España",
+      "to": "Medellín",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 3328000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-lim-bog",
+      "from": "Lima",
+      "fromCountry": "Perú",
+      "to": "Bogotá",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1250000,
+      "mode": "return"
+    },
+    {
+      "id": "ret-lim-med",
+      "from": "Lima",
+      "fromCountry": "Perú",
+      "to": "Medellín",
+      "toCountry": "Colombia",
+      "transport": "flight",
+      "price": 1300000,
+      "mode": "return"
+    },
+    {
+      "id": "us-mia-orl-air",
+      "from": "Miami",
+      "fromCountry": "Estados Unidos",
+      "to": "Orlando",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 420000,
+      "mode": "same"
+    },
+    {
+      "id": "us-mia-orl-bus",
+      "from": "Miami",
+      "fromCountry": "Estados Unidos",
+      "to": "Orlando",
+      "toCountry": "Estados Unidos",
+      "transport": "bus",
+      "price": 120000,
+      "mode": "same"
+    },
+    {
+      "id": "us-orl-mia-air",
+      "from": "Orlando",
+      "fromCountry": "Estados Unidos",
+      "to": "Miami",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 420000,
+      "mode": "same"
+    },
+    {
+      "id": "us-orl-mia-bus",
+      "from": "Orlando",
+      "fromCountry": "Estados Unidos",
+      "to": "Miami",
+      "toCountry": "Estados Unidos",
+      "transport": "bus",
+      "price": 120000,
+      "mode": "same"
+    },
+    {
+      "id": "us-mia-ny-air",
+      "from": "Miami",
+      "fromCountry": "Estados Unidos",
+      "to": "Nueva York",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 650000,
+      "mode": "same"
+    },
+    {
+      "id": "us-ny-mia-air",
+      "from": "Nueva York",
+      "fromCountry": "Estados Unidos",
+      "to": "Miami",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 650000,
+      "mode": "same"
+    },
+    {
+      "id": "mx-cdmx-can-air",
+      "from": "Ciudad de México",
+      "fromCountry": "México",
+      "to": "Cancún",
+      "toCountry": "México",
+      "transport": "flight",
+      "price": 350000,
+      "mode": "same"
+    },
+    {
+      "id": "mx-cdmx-can-bus",
+      "from": "Ciudad de México",
+      "fromCountry": "México",
+      "to": "Cancún",
+      "toCountry": "México",
+      "transport": "bus",
+      "price": 180000,
+      "mode": "same"
+    },
+    {
+      "id": "mx-can-cdmx-air",
+      "from": "Cancún",
+      "fromCountry": "México",
+      "to": "Ciudad de México",
+      "toCountry": "México",
+      "transport": "flight",
+      "price": 350000,
+      "mode": "same"
+    },
+    {
+      "id": "mx-can-cdmx-bus",
+      "from": "Cancún",
+      "fromCountry": "México",
+      "to": "Ciudad de México",
+      "toCountry": "México",
+      "transport": "bus",
+      "price": 180000,
+      "mode": "same"
+    },
+    {
+      "id": "es-mad-par-air",
+      "from": "Madrid",
+      "fromCountry": "España",
+      "to": "París",
+      "toCountry": "Francia",
+      "transport": "flight",
+      "price": 480000,
+      "mode": "other"
+    },
+    {
+      "id": "es-mad-par-bus",
+      "from": "Madrid",
+      "fromCountry": "España",
+      "to": "París",
+      "toCountry": "Francia",
+      "transport": "bus",
+      "price": 260000,
+      "mode": "other"
+    },
+    {
+      "id": "es-par-mad-air",
+      "from": "París",
+      "fromCountry": "Francia",
+      "to": "Madrid",
+      "toCountry": "España",
+      "transport": "flight",
+      "price": 480000,
+      "mode": "other"
+    },
+    {
+      "id": "es-par-mad-bus",
+      "from": "París",
+      "fromCountry": "Francia",
+      "to": "Madrid",
+      "toCountry": "España",
+      "transport": "bus",
+      "price": 260000,
+      "mode": "other"
+    },
+    {
+      "id": "pe-lim-bue-air",
+      "from": "Lima",
+      "fromCountry": "Perú",
+      "to": "Buenos Aires",
+      "toCountry": "Argentina",
+      "transport": "flight",
+      "price": 980000,
+      "mode": "other"
+    },
+    {
+      "id": "pe-bue-lim-air",
+      "from": "Buenos Aires",
+      "fromCountry": "Argentina",
+      "to": "Lima",
+      "toCountry": "Perú",
+      "transport": "flight",
+      "price": 980000,
+      "mode": "other"
+    },
+    {
+      "id": "br-sp-rio-air",
+      "from": "São Paulo",
+      "fromCountry": "Brasil",
+      "to": "Río de Janeiro",
+      "toCountry": "Brasil",
+      "transport": "flight",
+      "price": 260000,
+      "mode": "same"
+    },
+    {
+      "id": "br-sp-rio-bus",
+      "from": "São Paulo",
+      "fromCountry": "Brasil",
+      "to": "Río de Janeiro",
+      "toCountry": "Brasil",
+      "transport": "bus",
+      "price": 95000,
+      "mode": "same"
+    },
+    {
+      "id": "br-rio-sp-air",
+      "from": "Río de Janeiro",
+      "fromCountry": "Brasil",
+      "to": "São Paulo",
+      "toCountry": "Brasil",
+      "transport": "flight",
+      "price": 260000,
+      "mode": "same"
+    },
+    {
+      "id": "br-rio-sp-bus",
+      "from": "Río de Janeiro",
+      "fromCountry": "Brasil",
+      "to": "São Paulo",
+      "toCountry": "Brasil",
+      "transport": "bus",
+      "price": 95000,
+      "mode": "same"
+    },
+    {
+      "id": "out-bog-mia",
+      "from": "Bogotá",
+      "fromCountry": "Colombia",
+      "to": "Miami",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 1800000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-med-mia",
+      "from": "Medellín",
+      "fromCountry": "Colombia",
+      "to": "Miami",
+      "toCountry": "Estados Unidos",
+      "transport": "flight",
+      "price": 1880000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-bog-mex",
+      "from": "Bogotá",
+      "fromCountry": "Colombia",
+      "to": "Ciudad de México",
+      "toCountry": "México",
+      "transport": "flight",
+      "price": 1420000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-med-mex",
+      "from": "Medellín",
+      "fromCountry": "Colombia",
+      "to": "Ciudad de México",
+      "toCountry": "México",
+      "transport": "flight",
+      "price": 1490000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-bog-mad",
+      "from": "Bogotá",
+      "fromCountry": "Colombia",
+      "to": "Madrid",
+      "toCountry": "España",
+      "transport": "flight",
+      "price": 3100000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-med-mad",
+      "from": "Medellín",
+      "fromCountry": "Colombia",
+      "to": "Madrid",
+      "toCountry": "España",
+      "transport": "flight",
+      "price": 3250000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-bog-lim",
+      "from": "Bogotá",
+      "fromCountry": "Colombia",
+      "to": "Lima",
+      "toCountry": "Perú",
+      "transport": "flight",
+      "price": 1200000,
+      "mode": "outbound"
+    },
+    {
+      "id": "out-med-lim",
+      "from": "Medellín",
+      "fromCountry": "Colombia",
+      "to": "Lima",
+      "toCountry": "Perú",
+      "transport": "flight",
+      "price": 1270000,
+      "mode": "outbound"
+    }
+  ],
+  "categoryNames": {
+    "flight": "Vuelo internacional",
+    "lodging": "Hospedaje",
+    "food": "Comida",
+    "activity": "Actividades"
+  },
+  "demoCard": {
+    "username": "EdwinOcampo",
+    "password": "Edwin28",
+    "limit": 15000000
+  },
+  "demoCard2": {
+    "username": "EdwinOcampo",
+    "password": "Edwin28",
+    "limit": 50000000
+  },
+  "demoDebitCard": {
+    "username": "EdwinOcampo",
+    "password": "Edwin28",
+    "balance": 10000000
+  },
+  "demoCash": {
+    "balance": 5000000
+  },
+  "storageKeys": {
+    "card": "ti_card_state_v2",
+    "card2": "ti_card2_state_v1",
+    "debitCard": "ti_debit_card_state_v2",
+    "cash": "ti_cash_state_v1",
+    "history": "ti_invoice_history_v1"
+  }
+}

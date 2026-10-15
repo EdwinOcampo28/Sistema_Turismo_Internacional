@@ -1,0 +1,120 @@
+{
+  "customer": {
+    "first": "1",
+    "last": "1",
+    "id": "1062"
+  },
+  "history": [
+    {
+      "number": "TI-20261014235741247593",
+      "date": "2026-10-14 23:57:41",
+      "customer": {
+        "first": "1",
+        "last": "1",
+        "id": "1062"
+      },
+      "national_routes": [
+        {
+          "from": "Bucaramanga",
+          "to": "Bogotá",
+          "name": "Bucaramanga → Bogotá",
+          "type": "Nacional",
+          "transport": "Avión nacional",
+          "qty": 1,
+          "price": 280000,
+          "total": 280000,
+          "date": "2026-10-14T23:55"
+        }
+      ],
+      "national_services": [
+        {
+          "city": "Bogotá",
+          "country": "Colombia",
+          "category": "lodging",
+          "name": "Hotel cerca de La Candelaria · noche",
+          "qty": 1,
+          "price": 285000,
+          "total": 285000
+        }
+      ],
+      "international_routes": [
+        {
+          "from": "Bogotá",
+          "to": "Berlín",
+          "name": "Bogotá → Berlín",
+          "type": "Internacional",
+          "transport": "Vuelo internacional",
+          "qty": 1,
+          "price": 3850000,
+          "total": 3850000,
+          "date": "2026-10-14T23:56"
+        },
+        {
+          "from": "Berlín",
+          "to": "Mendoza",
+          "name": "Berlín → Mendoza",
+          "type": "Internacional",
+          "transport": "Vuelo internacional",
+          "qty": 1,
+          "price": 1850000,
+          "total": 1850000,
+          "date": "2026-10-14T23:56"
+        }
+      ],
+      "international_services": [
+        {
+          "city": "Mendoza",
+          "country": "Argentina",
+          "category": "lodging",
+          "name": "Hotel céntrico de categoría media · noche",
+          "qty": 1,
+          "price": 300000,
+          "total": 300000
+        }
+      ],
+      "national_payment": {
+        "method": "Efectivo",
+        "base": 565000,
+        "interest": 0,
+        "total": 565000,
+        "change": 35000,
+        "received": 600000,
+        "installments": 1,
+        "monthly_estimate": 0,
+        "remaining_balance": 4435000,
+        "interest_rate": "0 %",
+        "account_key": "cash",
+        "date": "2026-10-14 23:56:14"
+      },
+      "international_payment": {
+        "method": "Débito",
+        "base": 6000000,
+        "interest": 0,
+        "total": 6000000,
+        "change": 0,
+        "received": 0,
+        "installments": 1,
+        "monthly_estimate": 0,
+        "remaining_balance": 4000000,
+        "interest_rate": "0 %",
+        "account_key": "debit",
+        "date": "2026-10-14 23:57:11"
+      },
+      "total": 6565000
+    }
+  ],
+  "accounts": {
+    "cash": 4435000,
+    "card": 15000000,
+    "card2": 50000000,
+    "debit": 4000000
+  },
+  "national_routes": [],
+  "national_services": [],
+  "international_routes": [],
+  "international_services": [],
+  "national_paid": false,
+  "international_paid": false,
+  "national_payment": null,
+  "international_payment": null
+}
